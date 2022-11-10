@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09e2b73-5133-4cc9-b55f-b080b539b031" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/bar/barbar/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ArithmeticOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ArraysAndIndexes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/BonusTip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ClassesAndObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ComparisonOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ConcatenatingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/CreatingClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/CreatingObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/EnhancedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/IncrementAndDecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/NamingVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/PackagesAndImportStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/PrimitiveAndRefTypesDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/PrimitiveDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/PrintingObjectAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ReferenceTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/RepresentAPassportUsingClassesAndObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ReservedKeywords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/ScannerIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/TheStringClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/UnderstandingMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/UserDefinedMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foo/WorkingWithArrays.java" afterDir="false" />
-    </list>
+    <list default="true" id="d09e2b73-5133-4cc9-b55f-b080b539b031" name="Changes" comment="done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,8 +123,16 @@
       <option name="presentableId" value="Default" />
       <updated>1667915751499</updated>
       <workItem from="1667915753039" duration="7023000" />
-      <workItem from="1668037284546" duration="17719000" />
+      <workItem from="1668037284546" duration="18048000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1668079899542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668079899542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,5 +148,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
